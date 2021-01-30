@@ -4,7 +4,11 @@ hi sujit
 <title> c5 </title>
 -----------
 rsgnvdrdhbnfn 
+<<<<<<< HEAD
 sujit gosavi
+=======
+gosavi sujit
+>>>>>>> devlop
 sujit
 dnt
 c1
