@@ -1,6 +1,7 @@
 this is after 1st commit i writing or modifing it
 kjvbs the modified file
- 
+
+<title> c2 </title>
 
 rsgnvdrdhbnfn 
 sujit
